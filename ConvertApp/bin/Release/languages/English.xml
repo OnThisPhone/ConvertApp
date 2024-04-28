@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<!--Option variables-->
+	<option name="MachineTranslated">false</option>
+	<option name="LangCode">en-US</option>
+
+	<!--Main form and general-->
+	<words name="NoFileSelected">(No file selected)</words>
+	<words name="AppTitle">Audio/Video File Converter</words>
+	
+	<words name="BtnSelectFileInput">File Input</words>
+	<words name="BtnSelectFileOutput">Save Location</words>
+	<words name="BtnConvert">Convert</words>
+	<words name="LblConsole">App initialized</words>
+	<words name="lblSelectFiles">Select Files</words>
+	<words name="ChkAutoscroll">Auto Scroll</words>
+
+	<words name="ReadyToUse">Ready to use</words>
+	<words name="InputFileSelected">Input file selected: {0}</words>
+	<words name="InputFileSelectedNotSupported">File type not supported in file: {0}</words>
+	<words name="ConversionTakePlaceToolTip">The conversion that will take place. From => To</words>
+	<words name="OutputFolderChanged">Output folder changed to: {0}</words>
+	<words name="PleaseSelectInputFile">Please select an input file first</words>
+	<words name="Invalid">(Invalid)</words>
+	<words name="ConvertingTo">Converting: {0} to {1}</words>
+	<words name="CantConvertTwoEqual">Can't convert two equal file types</words>
+	<words name="InputFileInvalid">Input file is invalid. It's empty</words>
+	<words name="OutputFolderInvalid">Output file is invalid. It's empty</words>
+	<words name="Error">Error</words>
+	
+	<words name="Convert">Convert</words>
+	<words name="ClearConsole">Clear Console</words>
+	<words name="AutoScroll">Auto Scroll</words>
+	<words name="PlayLastConversion">Play Last Conversion</words>
+	<words name="StopConversion">Stop Conversion</words>
+	<words name="Options">Options</words>
+	<words name="Credits">Credits</words>
+	<words name="Exit">Exit</words>
+
+	<words name="Stop">Stop</words>
+	<words name="ConversionHasStopped">Conversion has stopped</words>
+	<words name="NoConversionInProg">No conversion is in progress</words>
+	<words name="FailedToPlayLastCon">Failed to play last conversion:\nDid you do a conversion? Did something else go wrong entirely</words>
+	<words name="ConversionCompleted">Conversion completed</words>
+
+	<words name="AppVer">App ver</words>
+	<words name="ApplicationVersion">Application version</words>
+	
+	<words name="FfmpegMissing">The file ffmpeg/ffmpeg.exe could not be found. You may have to download it and put it in its folder. Make sure it's in the folder called ffmpeg (Same name as the exe) and that the exe file is called ffmpeg.exe\n\nAs a result, the app can't convert anything. Sorry for the inconvenience</words>
+	
+	<words name="LeavingCustomParamsEmpty">Leaving custom parameters empty will cause conversion to fail. Do you still want to continue?</words>
+	<words name="WarningCustomParam">Warning - Custom Parameters</words>
+	<words name="NeedZeroOne">You need to use {0} and {1} (input and output) in order for conversions to work. Some other actions not reliant of inputs might still work, though. Do you still wish to continue?</words>
+	<words name="RemovingY">Removing -y can cause unexpected behavior if a file already exists when you're converting a file. Are you sure you want to remove it?</words>
+	<words name="ErrorFFmpegParamsEmpty">ERROR: FFMpeg parameters are empty.</words>
+	<words name="ErrorNoIOVars">ERROR: No input and/or output variables were found in the FFMpeg parameters</words>
+	<words name="WarningNoY">WARNING: No -y parameter was found in the FFMpeg parameters. Could lead to unintended behavior.</words>
+
+	<words name="FFmpegParams">FFmpeg parameters</words>
+	<words name="WillPerform">Will Perform</words>
+	<words name="NoInOutSelected">No in-/output selected</words>
+	
+	<words name="CreditsText">Created by OnThisPhone. (Hello, Lexicon!)\nMade in C# and uses FFMPEG as the back-end for file conversions.\nCredits to Eben Sorkin and Mirko Velimirović for SplineSansMono. the font i used in the console window\nThe app icon was made by Freepik. Convert icon by Komar Dews.\n\nThis tool is by no means comprehensive when it comes to how it integrates FFMpeg parameters. It's mostly intended for common types of conversions.</words>
+	<words name="CreditsTitle">Credits</words>
+
+	<words name="About">About</words>
+	
+	<!--Options menu-->
+	<words name="LblSelectLanguage">Select Language</words>
+	<words name="LblMachineTranslated"> is machine translated</words>
+	<words name="LblConsoleTextSize">Console Text Size</words>
+	<words name="BtnAccept">Accept</words>
+
+	<words name="CustomParameters">Custom Parameters</words>
+	<words name="Enabled">Enabled</words>
+	<words name="Explanation">Explanation</words>
+	<words name="Default">Default</words>
+	<words name="Rotation">Rotation</words>
+
+	<words name="General">General</words>
+	
+	<!--Randem-->
+	<words name="Hello">Wut?</words>
+</root>

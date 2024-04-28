@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<!--Option variables-->
+	<option name="MachineTranslated">true</option>
+	<option name="LangCode">jp-JP</option>
+	
+	<!--Main form and general-->
+	<words name="NoFileSelected">「ファイルが選択されていません」</words>
+	<words name="AppTitle">オーディオ/ビデオ ファイル コンバーター</words>
+	
+	<words name="BtnSelectFileInput">ファイル入力</words>
+	<words name="BtnSelectFileOutput">位置を保存</words>
+	<words name="BtnConvert">変換する</words>
+	<words name="LblConsole">アプリが初期化されました</words>
+	<words name="lblSelectFiles">ファイルの選択</words>
+	<words name="ChkAutoscroll">自動スクロール</words>
+
+	<words name="ReadyToUse">使用する準備ができて</words>
+	<words name="InputFileSelected">入力ファイルが選択されました: {0}</words>
+	<words name="InputFileSelectedNotSupported">ファイルでサポートされていないファイル タイプ: {0}</words>
+	<words name="ConversionTakePlaceToolTip">起こる変換。出発地 => 到着地</words>
+	<words name="OutputFolderChanged">出力フォルダーが次のように変更されました: {0}</words>
+	<words name="PleaseSelectInputFile">最初に入力ファイルを選択してください</words>
+	<words name="Invalid">「無効」</words>
+	<words name="ConvertingTo">変換中: {0} に {1}</words>
+	<words name="CantConvertTwoEqual">2 つの同じファイル タイプを変換できません</words>
+	<words name="InputFileInvalid">入力ファイルが無効です。空っぽです</words>
+	<words name="OutputFolderInvalid">出力ファイルが無効です。空っぽです</words>
+	<words name="Error">エラー</words>
+
+	<words name="Convert">変換する</words>
+	<words name="ClearConsole">コンソールをクリア</words>
+	<words name="AutoScroll">自動スクロール</words>
+	<words name="PlayLastConversion">最後の変換を再生</words>
+	<words name="StopConversion">変換の停止</words>
+	<words name="Options">オプション</words>
+	<words name="Credits">クレジット</words>
+	<words name="Exit">出口</words>
+	
+	<words name="Stop">停止</words>
+	<words name="ConversionHasStopped">変換が停止しました</words>
+	<words name="NoConversionInProg">変換は進行中ではありません</words>
+	<words name="FailedToPlayLastCon">最後の変換を再生できませんでした: 変換は行いましたか?何か別のことが完全に間違っていましたか</words>
+	<words name="ConversionCompleted">変換が完了しました</words>
+
+	<words name="AppVer">アプリバージョン</words>
+	<words name="ApplicationVersion">アプリケーションのバージョン</words>
+
+	<words name="FfmpegMissing">ファイルffmpeg/ffmpeg.exeが見つかりませんでした。ダウンロードしてフォルダーに入れる必要がある場合があります。それが ffmpeg (exe と同じ名前) という名前のフォルダーにあり、exe ファイルの名前が ffmpeg.exe であることを確認してください。その結果、アプリは何も変換できません。ご不便をおかけして申し訳ありません</words>
+
+	<words name="LeavingCustomParamsEmpty">カスタム パラメータを空のままにすると、変換が失敗します。まだ続けますか?</words>
+	<words name="WarningCustomParam">警告 - カスタムパラメータ</words>
+	<words name="NeedZeroOne">変換が機能するには、{0} と {1} (入力と出力) を使用する必要があります。ただし、入力に依存しない他のアクションは引き続き機能する可能性があります。まだ続行しますか?</words>
+	<words name="RemovingY">ファイルの変換時にファイルがすでに存在する場合、-y を削除すると、予期しない動作が発生する可能性があります。本当に削除してもよろしいですか?</words>
+	<words name="ErrorFFmpegParamsEmpty">エラー: FFMpeg パラメータが空です。</words>
+	<words name="ErrorNoIOVars">エラー: FFMpeg パラメータに入力変数および/または出力変数が見つかりませんでした</words>
+	<words name="WarningNoY">警告: FFMpeg パラメータに -y パラメータが見つかりませんでした。意図しない動作を引き起こす可能性があります。</words>
+
+	<words name="FFmpegParams">FFmpeg パラメーター</words>
+	<words name="WillPerform">出演します</words>
+	<words name="NoInOutSelected">入力/出力が選択されていません</words>
+	
+	<words name="CreditsText">OnThisPhone によって作成されました。 (こんにちは、Lexicon!)\nC# で作成され、ファイル変換のバックエンドとして FFMPEG を使用します。\nSplineSansMono の功績は Eben Sorkin と Mirko Velimirović です。コンソール ウィンドウで使用したフォント\nアプリのアイコンは Freepik によって作成されました。アイコンの変換 (Komar Dews 作)。\n\nこのツールは、FFMpeg パラメータの統合方法に関しては決して包括的ではありません。これは主に、一般的なタイプの変換を目的としています。</words>
+	<words name="CreditsTitle">クレジット</words>
+
+	<words name="About">について</words>
+
+	<!--Options menu-->
+	<words name="LblSelectLanguage">言語を選択する</words>
+	<words name="LblMachineTranslated"> 機械翻訳されています</words>
+	<words name="LblConsoleTextSize">コンソールのテキストサイズ</words>
+	<words name="BtnAccept">受け入れる</words>
+
+	<words name="CustomParameters">カスタムパラメータ</words>
+	<words name="Enabled">有効</words>
+	<words name="Explanation">説明</words>
+	<words name="Default">デフォルト</words>
+	<words name="Rotation">回転</words>
+
+	<words name="General">一般的な</words>
+
+	<!--Randem-->
+	<words name="Hello">Wut?</words>
+</root>

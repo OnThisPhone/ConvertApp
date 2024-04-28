@@ -1,0 +1,51 @@
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\bin\Debug\ConvertApp.exe.config
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\bin\Debug\ConvertApp.exe
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\bin\Debug\ConvertApp.pdb
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.AssemblyReference.cache
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.FrmMain.resources
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.Properties.Resources.resources
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.GenerateResource.cache
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.exe
+C:\Users\Lexicon\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.pdb
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\ConvertApp.exe.config
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\ConvertApp.exe
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\ConvertApp.pdb
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.AssemblyReference.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.FrmMain.resources
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.Properties.Resources.resources
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.GenerateResource.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.exe
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.pdb
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\ffmpeg\avcodec.dll
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\ffmpeg\avformat.dll
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\ffmpeg\avutil.dll
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.FormOptions.resources
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\languages\English.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\languages\Swedish.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\languages\Japanese.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\languages\Corrupt.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\assets\fonts\SplineSansMono.ttf
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\languages\Corrupt.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\languages\Japanese.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\languages\Swedish.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\languages\English.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\ffmpeg\avcodec.dll
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\ffmpeg\avformat.dll
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\ffmpeg\avutil.dll
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\assets\fonts\SplineSansMono.ttf
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\ConvertApp.exe.config
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\ConvertApp.exe
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Debug\ConvertApp.pdb
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.AssemblyReference.cache
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.FrmMain.resources
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.FormOptions.resources
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.Properties.Resources.resources
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.GenerateResource.cache
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.exe
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Debug\ConvertApp.pdb
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Debug\assets\icons\convert.ico
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Debug\ConvertApp.FormatPicker.resources

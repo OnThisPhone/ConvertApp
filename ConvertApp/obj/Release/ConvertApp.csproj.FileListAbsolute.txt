@@ -1,0 +1,41 @@
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\ffmpeg\avcodec.dll
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\ffmpeg\avformat.dll
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\ffmpeg\avutil.dll
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\ConvertApp.exe.config
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\ConvertApp.exe
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\ConvertApp.pdb
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.csproj.AssemblyReference.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.FrmMain.resources
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.Properties.Resources.resources
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.csproj.GenerateResource.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.exe
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.pdb
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\languages\Swedish.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\languages\English.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.FormOptions.resources
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\languages\Corrupt.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\languages\Japanese.xml
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\assets\fonts\SplineSansMono.ttf
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\languages\Corrupt.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\languages\Japanese.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\languages\Swedish.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\languages\English.xml
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\ffmpeg\avcodec.dll
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\ffmpeg\avformat.dll
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\ffmpeg\avutil.dll
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\assets\fonts\SplineSansMono.ttf
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\ConvertApp.exe.config
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\ConvertApp.exe
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\bin\Release\ConvertApp.pdb
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.csproj.AssemblyReference.cache
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.FrmMain.resources
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.FormOptions.resources
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.Properties.Resources.resources
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.csproj.GenerateResource.cache
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.exe
+C:\Users\Lexicon\Desktop\ConvertApp New\ConvertApp\ConvertApp\obj\Release\ConvertApp.pdb
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\bin\Release\assets\icons\convert.ico
+C:\Users\Jojo\source\repos\ConvertApp\ConvertApp\obj\Release\ConvertApp.FormatPicker.resources

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<!--Option variables-->
+	<option name="MachineTranslated">false</option>
+	<option name="LangCode">sv-SV</option>
+
+	<!--Main form and general-->
+	<words name="NoFileSelected">(Ingen fil vald)</words>
+	<words name="AppTitle">Ljud/Video Filkonverter</words>
+	
+	<words name="BtnSelectFileInput">Fil-inmatning</words>
+	<words name="BtnSelectFileOutput">Fil-utmatning</words>
+	<words name="BtnConvert">Konvertera</words>
+	<words name="LblConsole">App initialiserad</words>
+	<words name="lblSelectFiles">Välj Filer</words>
+	<words name="ChkAutoscroll">Auto-Skrolla</words>
+
+	<words name="ReadyToUse">Redo att använda</words>
+	<words name="InputFileSelected">Inmatningsfil vald: {0}</words>
+	<words name="InputFileSelectedNotSupported">Fil-typ stöds inte i filen: {0}</words>
+	<words name="ConversionTakePlaceToolTip">Konverteringen som ska hända. Från => Till</words>
+	<words name="OutputFolderChanged">Utmatningsfolder ändrad till: {0}</words>
+	<words name="PleaseSelectInputFile">Välj en inmatningsfil först</words>
+	<words name="Invalid">(Ogiltigt)</words>
+	<words name="ConvertingTo">Konverterar: {0} till {1}</words>
+	<words name="CantConvertTwoEqual">Kan inte konvertera två filer av samma typ</words>
+	<words name="InputFileInvalid">Inmatningsfil är inte giltigt. Den är tom</words>
+	<words name="OutputFolderInvalid">Utmatningsfil är inte giltigt. Den är tom</words>
+	<words name="Error">Fel</words>
+
+	<words name="Convert">Konvertera</words>
+	<words name="ClearConsole">Rensa Konsol</words>
+	<words name="AutoScroll">Auto-Skrolla</words>
+	<words name="PlayLastConversion">Spela Senaste Konverteringen</words>
+	<words name="StopConversion">Stoppa Konvertering</words>
+	<words name="Options">Alternativ</words>
+	<words name="Credits">Om</words>
+	<words name="Exit">Avsluta</words>
+	
+	<words name="Stop">Stopp</words>
+	<words name="ConversionHasStopped">Konverteringen har avbrytits</words>
+	<words name="NoConversionInProg">Ingen konvertering pågår just nu</words>
+	<words name="FailedToPlayLastCon">Misslyckades att spela senaste konverteringen:\nGjorde du en konvertering? Eller var det något annat som blev helt knas\n(Kalleankavarning)</words>
+	<words name="ConversionCompleted">Konverteringen är klar</words>
+
+	<words name="AppVer">App ver</words>
+	<words name="ApplicationVersion">Applikation version</words>
+
+	<words name="FfmpegMissing">Filen ffmpeg/ffmpeg.exe kunde inte hittas. Du kanske måste ladda ner den och lägga den i sin folder. Var säker på att den är i en folder som heter ffmpeg (Samma namn som exe filen) och att exe filen heter ffmpeg.exe\n\nSom ett resultat av det här felet så kan inte appen konvertera något. A ja. Så errä dårrå!</words>
+
+	<words name="LeavingCustomParamsEmpty">Att lämna parametrarna tom kommer få konverteringen att misslyckas. Vill du fortsätta?</words>
+	<words name="WarningCustomParam">Varning - Egna parametrar</words>
+	<words name="NeedZeroOne">Du måste använda {0} och {1} (Inmatning och utmatning) för att få konverteringen att fungera. Vissa kommandon förlitar sig inte på inmatning/utmatning, så dom kommer nog att fungera. Vill du fortsätta?</words>
+	<words name="RemovingY">Att ta bort -y kan orsaka oväntade beteenden om en fil av samma namn redan finns i din konverteringsfolder. Är du säker på att du vill ta bort den?</words>
+	<words name="ErrorFFmpegParamsEmpty">FEL: FFMpeg parametrarna är tom</words>
+	<words name="ErrorNoIOVars">FEL: Inga in-/utmatnings parametrar hittades i egna parametrarna</words>
+	<words name="WarningNoY">VARNING: Ingen -y parameter hittades i FFMpeg parametrarna. Kan leda till konstigt beteende.</words>
+
+	<words name="FFmpegParams">FFmpeg parametrar</words>
+	<words name="WillPerform">Kommer göra</words>
+	<words name="NoInOutSelected">Ingen in-/utmatning vald</words>
+	
+	<words name="CreditsText">Skapad av OnThisPhone. (Hellåj, Lexicon!)\nGjort i C# och använder FFMPEG som back-end för filkonvertering.\nCredits till Eben Sorkin och Mirko Velimirović för SplineSansMono. Typsnittet jag använde i konsollfönstret.\nApp ikonen var gjord av Freepik. Konverteringsikonen av Komar Dews\n\nDen här applikationen är inte omfattande med hur den implementerar ffmpegs parametrar. Den är gjord specifikt för vanliga typer av konverteringar.</words>
+	<words name="CreditsTitle">Credits</words>
+
+	<words name="About">Om</words>
+
+	<!--Options menu-->
+	<words name="LblSelectLanguage">Välj Språk</words>
+	<words name="LblMachineTranslated"> är översatt av en maskin</words>
+	<words name="LblConsoleTextSize">Konsoll Textstorlek</words>
+	<words name="BtnAccept">Acceptera</words>
+
+	<words name="CustomParameters">Egna Parametrar</words>
+	<words name="Enabled">Aktiverad</words>
+	<words name="Explanation">Förklaring</words>
+	<words name="Default">Standard</words>
+	<words name="Rotation">Rotation</words>
+
+	<words name="General">Allmänt</words>
+
+	<!--Randem-->
+	<words name="Hello">VAD!?</words>
+</root>

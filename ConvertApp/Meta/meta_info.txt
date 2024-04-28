@@ -1,0 +1,9 @@
+assets\fonts\SplineSansMono.ttf
+assets\icons\convert.ico
+ffmpeg\avcodec.dll
+ffmpeg\avformat.dll
+ffmpeg\avutil.dll
+languages\Corrupt.xml
+languages\Japanese.xml
+languages\Swedish.xml
+languages\English.xml
